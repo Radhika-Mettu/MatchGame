@@ -1,0 +1,18 @@
+.button {
+  margin: 10px;
+  color: white;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.listItem1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.tab-bottom {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
